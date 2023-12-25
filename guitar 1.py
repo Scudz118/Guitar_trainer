@@ -1,3 +1,3 @@
 from playsound import playsound
 
-playsound("C:/Sounds/NHU05104088.wav")
+playsound("https://github.com/Scudz118/Guitar_trainer/blob/main/Sounds/slide_electric_clean_guitar-104333.mp3")
