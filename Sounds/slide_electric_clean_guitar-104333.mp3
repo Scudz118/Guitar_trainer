@@ -1,0 +1,3 @@
+from playsound import playsound
+
+playsound("C:/Users/lenno/Desktop/Sounds/NHU05104088.wav")
