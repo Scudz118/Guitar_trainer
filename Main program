@@ -1,5 +1,0 @@
-From recordings import sounds
-
-for line in sounds:
-  print(line)
-
